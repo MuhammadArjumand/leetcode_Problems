@@ -10,4 +10,4 @@ class Solution(object):
 solution=Solution()
 values=(2,7,11,15)
 target=9
-print(solution.twoSum(values,target))     
+print(solution.twoSum(values,target))
